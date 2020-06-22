@@ -80,7 +80,13 @@ void loop
 void leitura sensor
 ![](https://github.com/LeonardoQuintiliano/IoT-Project/blob/master/imagens/voidLeiturasensor.jpg)
 
+IMAGEM(DO MQTT)
+IMAGEM DO NODE RED() IMAGEM DA CONEXÃO E TUDO MAIS
 
-5.(ARTIGO DO LEO)
+5.Conclusões + (ARTIGO)
 
-6.(REFERENCES)
+A internet das coisas tem estado cada vez mais presente no mundo, não somente em grandes empresas e grandes maquinas automatizadas, mas também em nossas vidas e em nosso dia a dia. Seja um sensor, um botão, um comando por voz , um ruído ou até mesmo um regulador de temperatura, cada vez mais nós criamos novos e diferentes tipos de tecnologia com a IoT. Num futuro não muito distante de nossa atualidade, com o “recente” protocolo IPV6, toda essa nova tecnologia poderá ingressar em nossas vidas com muito mais facilidade, seja em um projeto bem curto ou bem complexo, as internet das coisas irá se acoplar na rotina das pessoas e facilitara muitas atividades daqui pra frente.
+
+Nosso projeto, é um exemplo bem prático dessa mudança. Através dele, conseguimos obter uma automação que poderá ser usada para regular a temperatura de diversas maquinas de uma casa(contanto que as mesmas possuam uma conexão com a internet).
+O artigo onde esta detalhado completamente o nosso projeto pode ser encontrado aqui :link:
+
