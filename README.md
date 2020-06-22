@@ -1,4 +1,4 @@
-# Projeto da disciplina de Objetos Inteligentes Conectados
+# Automação de controle de temperatura de uma piscina com IoT
 
 ## Turma 05K11.
 
