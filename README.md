@@ -83,7 +83,7 @@ void leitura sensor
 IMAGEM(DO MQTT)
 IMAGEM DO NODE RED() IMAGEM DA CONEXÃO E TUDO MAIS
 
-5.Conclusões + (ARTIGO)
+5.Conclusões
 
 A internet das coisas tem estado cada vez mais presente no mundo, não somente em grandes empresas e grandes maquinas automatizadas, mas também em nossas vidas e em nosso dia a dia. Seja um sensor, um botão, um comando por voz , um ruído ou até mesmo um regulador de temperatura, cada vez mais nós criamos novos e diferentes tipos de tecnologia com a IoT. Num futuro não muito distante de nossa atualidade, com o “recente” protocolo IPV6, toda essa nova tecnologia poderá ingressar em nossas vidas com muito mais facilidade, seja em um projeto bem curto ou bem complexo, as internet das coisas irá se acoplar na rotina das pessoas e facilitara muitas atividades daqui pra frente.
 
