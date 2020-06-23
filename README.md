@@ -20,10 +20,7 @@
 
 #### 5.O artigo:
 
-#### 6.Referências:
-
-***********************************************Todos os tópicos seguem abaixo **********************************************************
-
+________________________________________________________________________________________________________________________________________
 ### 1.Neste projeto, desenvolvemos um sistema de aquecimento de agua com iot,para que possa funcionar automaticamente com um unico clique
 utliziando um sensor  e um módulo nodeMCU.
 
