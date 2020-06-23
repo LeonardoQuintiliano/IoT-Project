@@ -52,6 +52,7 @@ Um vídeo demonstrando o sistema em funcionamento se encontra disponível em htt
 
 ![](https://github.com/LeonardoQuintiliano/IoT-Project/blob/master/imagens/IoTProjeto.jpg)
 
+![](https://github.com/LeonardoQuintiliano/IoT-Project/blob/master/DiagramaIoT.png)
 
 3.Software arduino & sua programação & 4.Resultado (pode ir junto de cada informação de código)
 
@@ -76,6 +77,7 @@ void loop
 
 void leitura sensor
 ![](https://github.com/LeonardoQuintiliano/IoT-Project/blob/master/imagens/voidLeiturasensor.jpg)
+
 
 
 
