@@ -35,7 +35,7 @@ estiver a uma temperatura menor que a desejada,o aquecedor deverá ligar e caso 
 O dashboard foi implementado no Node-RED, se comunicando com o sistema via protocolo MQTT utilizando o broker IBM CLOUD 
 https://cloud.ibm.com/.
 
-Um vídeo demonstrando o sistema em funcionamento se encontra disponível em https://youtu.be/PSYkpyM_V9E.
+Um vídeo demonstrando o sistema em funcionamento se encontra disponível em https://www.youtube.com/watch?v=6r56pwoXq5Y .
 
 2.O sistema foi construído com os seguintes materiais:
 
